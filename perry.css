@@ -1,0 +1,29 @@
+
+p {
+    color: aqua;
+    font-size: 20px;
+    margin: 1;
+}
+  body {
+background-color: gray;
+
+  }
+h1 {
+    font-size: 50px;
+    margin: 0;
+    font-family: fantasy;
+}
+img {
+    height: 350px;
+    width: 475px;
+    border: 8px solid transparent;
+    border-radius: 100px;
+}
+img:hover{
+    border: 8px solid blue;
+    border-radius: 100px;
+    transition: 0,8s;
+}
+
+  
+  
