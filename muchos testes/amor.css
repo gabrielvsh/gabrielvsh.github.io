@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(34, 34, 34);
+    margin: 0;
+    overflow: hidden;
+}
+.fundo{
+    background-image: url('d0c2ba8bebee3b994281bc8c4230cabd.jpeg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+
+
+}
+h1 { 
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
